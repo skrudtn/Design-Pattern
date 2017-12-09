@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;TemplateMethodPattern&apos; to &apos;TemplateMethod&apos;&#x0D;&#x0A;- Original element: &apos;TemplateMethodPattern&apos;&#x0D;&#x0A;- Renamed element: &apos;TemplateMethodPattern&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;TemplateMethodPattern&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=TemplateMethodPattern" name="TemplateMethod" references="true" stamp="1510030396479" version="1.0"/>
+</session>
